@@ -3,3 +3,8 @@
 2025-01-24T05:13:28.582Z | GET | /assets/image
 2025-01-24T05:13:35.001Z | GET | /assets/image.png
 2025-01-24T05:17:37.749Z | GET | /error-test
+2025-02-02T13:19:57.706Z | GET | /
+2025-02-02T13:19:58.531Z | GET | /favicon.ico
+2025-02-02T13:20:24.794Z | GET | /products/500
+2025-02-02T13:20:34.919Z | GET | /products/500
+2025-02-02T13:20:39.842Z | GET | /products/
